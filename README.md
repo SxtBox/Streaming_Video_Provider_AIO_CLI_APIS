@@ -1,2 +1,2 @@
-# Streaming_Video_Provider_AIO_CLI_APIS
-Streaming_Video_Provider_AIO_CLI_APIS
+# Streaming Video Provider AIO CLI APIS
+Multiple Streaming APIS
