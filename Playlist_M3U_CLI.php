@@ -40,7 +40,7 @@ $API_HOST = "https://paidcodes.albdroid.al/Streaming_Video_Provider_APIS/";
 $PHP_FILE =  "Playlist_M3U.php";
 $GET_PARAMAMETER =  "?id=";
 
-$STREAM_ID =  "35c88c8i3d8d044"; // CHANGE JUST Playlist ID
+$STREAM_ID =  "585464"; // CHANGE JUST Playlist ID
 
 $API_CALL = $API_HOST. $PHP_FILE . $GET_PARAMAMETER . $STREAM_ID;
 $GET_URL = file_get_contents($API_CALL.$_SERVER['QUERY_STRING']);
